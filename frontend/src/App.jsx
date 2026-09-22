@@ -11,7 +11,8 @@ function App() {
 
   // Local FastAPI
   // Change this to your Render URL after deployment
-  const API_URL = "http://127.0.0.1:8000";
+  const API_URL = "https://pytorch-breast-cancer-histopathology.onrender.com";
+  
 
   const handleFileChange = (event) => {
     const selectedFile = event.target.files[0];
