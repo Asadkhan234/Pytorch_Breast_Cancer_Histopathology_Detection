@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+.deep_learning_venv/
+
+.ipynb_checkpoints/
+
+.DS_Store
+*.log
+
+# BreaKHis dataset
+BreaKHis_v1/
+split_data/
